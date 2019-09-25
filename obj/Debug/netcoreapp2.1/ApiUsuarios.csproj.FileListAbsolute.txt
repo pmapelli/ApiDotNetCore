@@ -1,0 +1,14 @@
+C:\Repositorios\ApiUsuarios\bin\Debug\netcoreapp2.1\ApiUsuarios.deps.json
+C:\Repositorios\ApiUsuarios\bin\Debug\netcoreapp2.1\ApiUsuarios.runtimeconfig.json
+C:\Repositorios\ApiUsuarios\bin\Debug\netcoreapp2.1\ApiUsuarios.runtimeconfig.dev.json
+C:\Repositorios\ApiUsuarios\bin\Debug\netcoreapp2.1\ApiUsuarios.dll
+C:\Repositorios\ApiUsuarios\bin\Debug\netcoreapp2.1\ApiUsuarios.pdb
+C:\Repositorios\ApiUsuarios\obj\Debug\netcoreapp2.1\ApiUsuarios.csprojAssemblyReference.cache
+C:\Repositorios\ApiUsuarios\obj\Debug\netcoreapp2.1\ApiUsuarios.csproj.CoreCompileInputs.cache
+C:\Repositorios\ApiUsuarios\obj\Debug\netcoreapp2.1\ApiUsuarios.RazorAssemblyInfo.cache
+C:\Repositorios\ApiUsuarios\obj\Debug\netcoreapp2.1\ApiUsuarios.RazorAssemblyInfo.cs
+C:\Repositorios\ApiUsuarios\obj\Debug\netcoreapp2.1\ApiUsuarios.AssemblyInfoInputs.cache
+C:\Repositorios\ApiUsuarios\obj\Debug\netcoreapp2.1\ApiUsuarios.AssemblyInfo.cs
+C:\Repositorios\ApiUsuarios\obj\Debug\netcoreapp2.1\ApiUsuarios.RazorTargetAssemblyInfo.cache
+C:\Repositorios\ApiUsuarios\obj\Debug\netcoreapp2.1\ApiUsuarios.dll
+C:\Repositorios\ApiUsuarios\obj\Debug\netcoreapp2.1\ApiUsuarios.pdb
